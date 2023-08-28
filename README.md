@@ -23,7 +23,7 @@ Simple peer-to-peer chat written in Python and UDP sockets
 
 ### Usage:
 Run server first
-`bash python3 ./server.py`
+`python3 ./server.py`
 
 Run two client applications
-`bash python3 ./client.py`
+`python3 ./client.py`
